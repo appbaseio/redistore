@@ -1,4 +1,4 @@
 /*
-Package redistore is a session store backend for gorilla/sessions
+Package redistore is a session store backend for appbaseio/sessions
 */
 package redistore

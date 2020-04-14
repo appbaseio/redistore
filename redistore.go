@@ -15,9 +15,9 @@ import (
 	"strings"
 	"time"
 
+	"github.com/appbaseio/sessions"
 	"github.com/gomodule/redigo/redis"
 	"github.com/gorilla/securecookie"
-	"github.com/gorilla/sessions"
 )
 
 // Amount of time for cookies/redis keys to expire.
