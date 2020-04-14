@@ -10,7 +10,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/gorilla/sessions"
+	"github.com/appbaseio/sessions"
 )
 
 const (
