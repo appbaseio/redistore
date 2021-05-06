@@ -1,4 +1,4 @@
-module github.com/boj/redistore
+module github.com/appbaseio/redistore
 
 require (
 	github.com/appbaseio/sessions v1.2.1-0.20200414130821-b889f441b921
